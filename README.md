@@ -7,24 +7,15 @@ This is my **custom development board**. I made it to experiment with electronic
 ---
 
 ## Board Render
-
-*(Put a 3D render image here)*
-
 <img width="734" height="709" alt="image" src="https://github.com/user-attachments/assets/e55386ba-c43e-436c-9eff-c3768953af2d" />
 
 
 
 ## PCB Layout
-
-*(Put the PCB layout image here)*
-
 <img width="556" height="597" alt="image" src="https://github.com/user-attachments/assets/0c182536-3363-478f-b1ca-4d2e0facc381" />
 
 
 ## Schematic
-
-*(Put the schematic image here)*
-
 <img width="933" height="525" alt="image" src="https://github.com/user-attachments/assets/d20021de-dbf3-4736-a7d8-994510f81520" />
 
 
