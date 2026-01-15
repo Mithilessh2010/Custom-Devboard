@@ -27,6 +27,10 @@
 | SW*       | Buttons        | Boot and reset buttons                |
 | PCB       | JLCPCB         | $ 101.3                               |
 
+<img width="1408" height="388" alt="image" src="https://github.com/user-attachments/assets/216a1a20-cb87-483f-afd8-ac73e303d6d8" />
+<img width="1408" height="388" alt="image" src="https://github.com/user-attachments/assets/f42ef6dd-a34f-4dae-90d8-802d47b62cd5" />
+
+
 ## Power
 
 * Powered through **USB**
