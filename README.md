@@ -1,11 +1,5 @@
 # Custom DevBoard
 
-## What This Is
-
-This is my **custom development board**. I made it to experiment with electronics, write code, and connect sensors and other parts easily. Everything important is on one board so I don’t need lots of extra modules.
-
----
-
 ## Board Render
 <img width="734" height="709" alt="image" src="https://github.com/user-attachments/assets/e55386ba-c43e-436c-9eff-c3768953af2d" />
 
@@ -31,6 +25,7 @@ This is my **custom development board**. I made it to experiment with electronic
 | R*        | Resistors      | Pull-ups, pull-downs, and general use |
 | C*        | Capacitors     | Power filtering and stability         |
 | SW*       | Buttons        | Boot and reset buttons                |
+| PCB       | JLCPCB         | $ 101.3                               |
 
 ## Power
 
@@ -38,23 +33,3 @@ This is my **custom development board**. I made it to experiment with electronic
 * Runs at **3.3V logic level**
 
 Always make sure power is connected correctly before plugging it in.
-
-
-## How I Use It
-
-1. Plug the board into a computer using USB.
-2. Upload code to the RP2040.
-3. Connect sensors, motors, or other devices to the pins.
-4. Test and improve my project.
-
-
-## What This Board Is For
-
-* Learning embedded systems
-* Testing RP2040 projects
-* Robotics and electronics experiments
-* Custom hardware development
-
-## Author
-
-Designed by **Mithilessh Bhasker**
