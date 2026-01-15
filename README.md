@@ -28,12 +28,8 @@
 | PCB       | JLCPCB         | $ 101.3                               |
 
 <img width="1408" height="388" alt="image" src="https://github.com/user-attachments/assets/216a1a20-cb87-483f-afd8-ac73e303d6d8" />
-<img width="1408" height="388" alt="image" src="https://github.com/user-attachments/assets/f42ef6dd-a34f-4dae-90d8-802d47b62cd5" />
+<img width="1408" height="388" alt="image" src="https://github.com/user-attachments/assets/f9565a87-d13c-470d-ba34-219a22d8e111" />
 
 
-## Power
-
-* Powered through **USB**
-* Runs at **3.3V logic level**
-
-Always make sure power is connected correctly before plugging it in.
+## Custom Features
+It works like a normal devboard but has bit, of changes such as lights to indicate various things, and buttons to reset, etc.
